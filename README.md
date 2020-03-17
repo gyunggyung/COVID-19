@@ -1,4 +1,4 @@
-#
+# COVID-19 (우한 폐렴)
 [![](covid.png)](https://www.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6)
 
 ## 배경
