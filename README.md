@@ -38,12 +38,11 @@
 - http://www.protezionecivile.it/
 
 ## 각종 데이터들
-- https://github.com/CSSEGISandData/COVID-19
-- 관련된 정보를 정리한 곳 : https://github.com/pcm-dpc/COVID-19
+- 2019 Novel Coronavirus COVID-19 (2019-nCoV) Data Repository by Johns Hopkins CSSE : https://github.com/CSSEGISandData/COVID-19
+- Dati COVID-19 Italia : https://github.com/pcm-dpc/COVID-19
+- COVID-19/2019-nCoV Realtime Infection Crawler and API https://lab.isaaclin.cn/nCoV/
+- COVID-19/2019-nCoV Time Series Infection Data Warehouse : https://github.com/BlankerL/DXY-COVID-19-Data
+- COVID-19/2019-nCoV Infection Data Realtime Crawler : https://github.com/BlankerL/DXY-COVID-19-Crawler
+- Coronavirus Disease (COVID-19) Situation Report in Japan : https://github.com/kaz-ogiwara/covid19
+- 도쿄도 코로나19 대책 사이트 : https://github.com/tokyo-metropolitan-gov/covid19
 
-
-## 중국 데이터들
-- 관련된 데이터를 정리한 곳 : https://github.com/BlankerL/DXY-COVID-19-Data
-- 크롤링 코드 : https://github.com/BlankerL/DXY-COVID-19-Crawler
-- https://github.com/kaz-ogiwara/covid19
-- https://github.com/tokyo-metropolitan-gov/covid19
