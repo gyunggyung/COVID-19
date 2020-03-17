@@ -33,8 +33,8 @@
 * European Centre for Disease Prevention and Control (ECDC): https://www.ecdc.europa.eu/en/geographical-distribution-2019-ncov-cases 
 * Ministry of Health Singapore (MOH): https://www.moh.gov.sg/covid-19
 * Italy Ministry of Health: http://www.salute.gov.it/nuovocoronavirus
-- The Center for Systems Science and Engineering (CSSE) at JHU : https://systems.jhu.edu/
-- PROTEZIONE CIVILE : http://www.protezionecivile.it/
+* The Center for Systems Science and Engineering (CSSE) at JHU : https://systems.jhu.edu/
+* PROTEZIONE CIVILE : http://www.protezionecivile.it/
 
 ## 각종 데이터들
 - 2019 Novel Coronavirus COVID-19 (2019-nCoV) Data Repository by Johns Hopkins CSSE : https://github.com/CSSEGISandData/COVID-19
