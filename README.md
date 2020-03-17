@@ -16,13 +16,13 @@
 
 현재이 새로운 발생에 대한 추가 모델링을 진행 중이며이 블로그 게시물을 곧 결과로 업데이트 할 예정입니다.
 
-
-각종 데이터들
+# 관련 Github
+## 각종 데이터들
 - https://github.com/CSSEGISandData/COVID-19
 - https://github.com/pcm-dpc/COVID-19
 
 
-중국 데이터들
+## 중국 데이터들
 - https://github.com/BlankerL/DXY-COVID-19-Data
 - https://github.com/BlankerL/DXY-COVID-19-Crawler
 - https://github.com/kaz-ogiwara/covid19
