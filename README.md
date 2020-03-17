@@ -1,5 +1,6 @@
 # COVID-19
 
+![](covid.png)
 
 
 각종 데이터들
