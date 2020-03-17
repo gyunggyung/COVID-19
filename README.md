@@ -17,7 +17,6 @@
 
  현재이 새로운 발생에 대한 추가 모델링을 진행 중이며이 블로그 게시물을 곧 결과로 업데이트 할 예정입니다.
 
-# 관련 링크
 ## 관련 기관
 * World Health Organization (WHO): https://www.who.int/ <br>
 * DXY.cn. Pneumonia. 2020. http://3g.dxy.cn/newh5/view/pneumonia.  <br>
@@ -34,8 +33,8 @@
 * European Centre for Disease Prevention and Control (ECDC): https://www.ecdc.europa.eu/en/geographical-distribution-2019-ncov-cases 
 * Ministry of Health Singapore (MOH): https://www.moh.gov.sg/covid-19
 * Italy Ministry of Health: http://www.salute.gov.it/nuovocoronavirus
-- https://systems.jhu.edu/
-- http://www.protezionecivile.it/
+- The Center for Systems Science and Engineering (CSSE) at JHU : https://systems.jhu.edu/
+- PROTEZIONE CIVILE : http://www.protezionecivile.it/
 
 ## 각종 데이터들
 - 2019 Novel Coronavirus COVID-19 (2019-nCoV) Data Repository by Johns Hopkins CSSE : https://github.com/CSSEGISandData/COVID-19
